@@ -39,9 +39,14 @@
 
 .about-me-home-page{
   text-align: left;
+  padding-right: 100px;
 }
 
 .featured-projects-carousel-home{
   padding-left: 100px;
-  text-align: left;
+  padding-right: 100px;
+}
+
+.blackTextOverride{
+  color: black !important;
 }

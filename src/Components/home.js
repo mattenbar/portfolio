@@ -35,7 +35,7 @@ const Home = () =>{
           </Col>
         </Row>
         <Row>
-          <Col xs={6} md={4} >
+          <Col >
             <br /><br /><br />
             <div className="featured-projects-carousel-home">
               <FeaturedProjects />
