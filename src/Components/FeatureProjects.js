@@ -19,8 +19,23 @@ const FeaturedProjects = () => {
           <Link  to={`/InvoiceTracker`}>More about Invoice Tracker App<br/> </Link>
         </Carousel.Caption>
       </Carousel.Item>
+
+      <Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://previews.dropbox.com/p/thumb/AA5oTDVuzLDbOOXPAWj6uee6AYkZE1NQcet7pjRlhTuG2lzOI1HJp_QUHOa6Z0Q_6YGUbAjD4xPJd9KIjc0oH_P-yhKtC112JC6Vg4CYCQ-34Ba3FLFa6bSciWnZrZDc47tZrj17crhc-rUNNWoZY1baZFfBzaPESVWm0or_-8mA5zFOuiMXpRSCUuKVv4THPilawg-MhxQ9KB52vbFHG9l_-K4BXU02Qb06TvuYRDG3NDKmimuCau3grgFSRHSSGEeZTNgcpxdurLeOXAUd7WfJmiRHLQy4XYXfC45ygqwgb5dALJXyjuscuVbCQoTING9ENI98HAcvIA6NyHTCQzis476T1XPtWRXNWsPHkacj5w/p.png?size=2048x1536&size_mode=3"
+          alt="First slide"
+        />
+        <Carousel.Caption >
+          <h3 className="blackTextOverride" >NYC PupPals</h3>
+          <p className="blackTextOverride">An app that helps users socialize and create play-dates for their puppies in NYC</p>
+          <Link  to={`/NYC-PupPals`}>More about NYC PupPals App<br/> </Link>
+        </Carousel.Caption>
+      </Carousel.Item>
+
     </Carousel>
   )
 }
 
 export default FeaturedProjects
+

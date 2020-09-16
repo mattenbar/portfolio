@@ -8,6 +8,7 @@ const NavBar = () =>{
       <Navbar.Brand href="/">HOME</Navbar.Brand>
         <Nav className="mr-auto">
         <Nav.Link href="/InvoiceTracker">Invoice Tracker App</Nav.Link>
+        <Nav.Link href="/PupPals-NYC">PupPals NYC App</Nav.Link>
         </Nav>
     </Navbar>
   )

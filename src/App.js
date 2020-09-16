@@ -5,6 +5,7 @@ import Home from './Components/home'
 import NavBar from './Components/NavBar'
 import InvoiceTracker from './Components/InvoiceTracker'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import PupPalsNYC from './Components/PupPalsNYC';
 
 
 
@@ -17,6 +18,7 @@ render(){
       <Switch>
         <Route exact path ="/" render={()=> <Home />}/>
         <Route exact path ="/invoiceTracker" render={()=> <InvoiceTracker />}/>
+        <Route exact path ="/PupPals-NYC" render={()=> <PupPalsNYC />}/>
       </Switch>
     </div>
   );
