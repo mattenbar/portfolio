@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.about-me-home-page{
+  text-align: left;
+}
+
+.featured-projects-carousel-home{
+  padding-left: 100px;
+  text-align: left;
+}
