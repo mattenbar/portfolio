@@ -6,6 +6,9 @@ import NavBar from './Components/NavBar'
 import InvoiceTracker from './Components/InvoiceTracker'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PupPalsNYC from './Components/PupPalsNYC';
+import Resume from './Components/Resume'
+
+
 
 
 
@@ -19,6 +22,7 @@ render(){
         <Route exact path ="/" render={()=> <Home />}/>
         <Route exact path ="/invoiceTracker" render={()=> <InvoiceTracker />}/>
         <Route exact path ="/PupPals-NYC" render={()=> <PupPalsNYC />}/>
+        <Route exact path ="/Resume" render={()=> <Resume />}/>
       </Switch>
     </div>
   );

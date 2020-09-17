@@ -10,7 +10,7 @@ const NavBar = () =>{
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          {/* <Nav.Link href="#link">Link</Nav.Link> */}
+          <Nav.Link href="/Resume">Resume</Nav.Link>
           <NavDropdown title="Projects" id="basic-nav-dropdown">
             <NavDropdown.Item href="/InvoiceTracker">Invoice Tracker App</NavDropdown.Item>
             <NavDropdown.Item href="/PupPals-NYC">PupPals NYC App</NavDropdown.Item>
