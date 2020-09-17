@@ -13,7 +13,19 @@ const Home = () =>{
         <Row>
           <Col xs={6} md={4}>
             <br></br>
-            <Image src="https://pbs.twimg.com/profile_images/1293206456280506369/gqjy9Kyp_400x400.jpg" roundedCircle />
+            <Image  src="https://pbs.twimg.com/profile_images/1293206456280506369/gqjy9Kyp_400x400.jpg" roundedCircle />
+            <br /><br />
+            <a href="https://github.com/mattenbar" target="_blank">
+              <Image  height="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" roundedCircle />
+            </a>
+              &nbsp;
+            <a href="https://www.linkedin.com/in/matthew-enbar/" target="_blank">
+              <Image height="35px" src="https://www.seekpng.com/png/small/154-1546943_jpg-transparent-stock-linkedin-logo-svg-png-icon.png" roundedCircle />
+            </a>
+              &nbsp;&nbsp;
+            <a href="https://twitter.com/MattEnbar" target="_blank">
+              <Image height="35px" src="https://simg.nicepng.com/png/small/2-28328_twitter-png-clipart-twitter-logo-png-black.png" roundedCircle />
+            </a>
           </Col>
           <Col>
             <br/><br/><br/>
