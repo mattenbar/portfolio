@@ -9,9 +9,7 @@ const FeaturedProjects = () => {
     <Carousel >
     
       <Carousel.Item >
-        
         <img
-          
           className="d-block w-100"
           src="https://previews.dropbox.com/p/thumb/AA5OQARs9C3uxT3Hfw1OBb6R_ACDBi-i9eWdFORd6U1ALFmJJxhqrcEcrVE0PulqCtatZNFwtWfxtMjXUcVyvIxqSS-dseVybEcsBWUFxIS5fPwXUYW9aNcdcqzQLd2hec_UHEugAEwPF6wPXQqd_vZ5D3c9i74CJdHPnJgSPwjyvGgDl04ddhNbqA9vr6yQSn2rSwSq8qlj2g9Ea_b4157Vtd7pFpY2ctRtIZ1sKmSZjlOPMVkSyAnR6LKkSFW57h2O9H_AAbDOFQtpvKWBkVh8LL6x9bQ3kGiXN6_RcmLPohZX2MqjQdKwXkPEfU2Z8o6ChqaibelU4I-LxbVUjap-Ro6zxqaOobKfNyV_V6u1qQ/p.png?size=2048x1536&size_mode=3"
           alt="First slide"
