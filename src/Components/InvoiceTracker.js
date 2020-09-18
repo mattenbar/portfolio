@@ -10,7 +10,7 @@ const InvoiceTracker = () => {
     <Row>
         <Col xs={6} md={4}>
         <br />
-        <Image width= "95%" src="https://previews.dropbox.com/p/thumb/AA74jloBptgh4zVV1g6u0GznG4oCNQ2zEJDOIYpvKtnghxqXqI1AiexTCkNz0k72A136tiMR7l11hgghzoD4SRLwVlSKbMSXf-JNXlf_HCc7DGQ-lnkUhI-sgMz5TOA7qc2gcmJWdt74nVuzJYPu_QLVkEWZLUD0NFnx1EbWvAODNZeinlFjQ4-oz5dBi4Fo5eYJb3oHpBjJZ8LmToUDFQ9NpJRXYHCd5ImaoWZNvpezx1_XyJjb5GhPbuaEYsWBboKffNXb9t1qziG94UfzhQGhtwzsf5mcGqKPMvDFAy9qRM9LrAedbixIhyAaR4bwCvyNB5TBPh46vLp0JTuPRR51KpR4J13lF8B_RPTRWcW0bg/p.png?fv_content=true&size_mode=5"  />
+        <Image width= "95%" src="https://i.imgur.com/f63DTIL.png"  />
         </Col>
         <Col xs={6} md={5}>
           <br />

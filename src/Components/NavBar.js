@@ -15,7 +15,7 @@ const NavBar = () =>{
             <NavDropdown.Item href="/PupPals-NYC">PupPals NYC App</NavDropdown.Item>
             <NavDropdown.Item href="/EventLiveStreams">Event Live Streams App</NavDropdown.Item>
           </NavDropdown>
-          <Nav.Link href="/Resume">Resume</Nav.Link>
+          <Nav.Link href="/Resume">Resumé</Nav.Link>
           <Nav.Link href="/About-Me">About Me</Nav.Link>
           <Nav.Link href="/Contact-Me">Contact Me</Nav.Link>
         </Nav>

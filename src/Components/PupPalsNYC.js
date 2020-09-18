@@ -13,7 +13,7 @@ const PupPalsNYC = () => {
     <Row>
         <Col xs={6} md={4}>
         <br />
-        <Image width= "80%" src="https://previews.dropbox.com/p/thumb/AA4IsEG3OB3c-9qmnvyu18uE5BOveYAHhH6_ELW3sK0ZUrpt35DMcE0aeR5XTVD8uVrQoFOT62QvkTEakwECUuQ8ExF_bXBvZUYDr1f8S1-rhuoduIwxB8tpZih4LpMZBtCwMDvSvjA0uODg8VphaVKEy4NkTmJD0SSdgww9ZJCbwVmaMKHgrO_f1CWL6b9ExJ_38Hk6h-LxA-GakJfAPVwS1tLBaBJ5Hi86NPg3Faiw2hpzf7zCdxH6E4PKHZrB5j0FzJGAHuiZ7BEL6KHBJ3F50fUuCJeTMSfnc4Lt_5kN2D3zsaDcA2yCtbL1bKzOdn62FaLq9WWYqM5O8sOT9sRnjbSbfeH0YshAbJVZO8mvWQ/p.png?fv_content=true&size_mode=5"  />
+        <Image width= "80%" src="https://i.imgur.com/naqiL1n.png"  />
         </Col>
         <Col xs={6} md={5}>
           <br />

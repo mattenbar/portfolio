@@ -9,7 +9,7 @@ const EventLiveStreams = () =>{
     <Row>
         <Col xs={6} md={4}>
         <br />
-        <Image width= "95%" src="https://previews.dropbox.com/p/thumb/AA5oexYHv86EoDcZxkha6Lz19JD9xSEJ2vO9xs402By4QhOoDd5Egh7L4Zqfi5LvVamqOPeNAqGzxiPpG0pIEJ8ymJzkFQi_soPU1RriUq-C1LyxoEjkDF6l9Grs6x8ycOuenMqXi4QQo-fqERRC2tgbfueg7YlbDYQri_wC5v-Aa6gwrKLylk-9-ch6vQ7QMbSlDkn1Jl1TBKwZGRMXfH52yNRZak0mz4JsLBP4RvRqs3bkOdr--F35lzm6xFnEj6xJuJOIygXCDWac2oxZD7JjIQ4YvnydtFI8ehIlOJNxcuxhzel0mlirjm0jTfiLKy4vVrQx1LvLvyxVheMBxz5fiseW5KW_z5Go4pgc_YqZLw/p.png?fv_content=true&size_mode=5"  />
+        <Image width= "95%" src="https://i.imgur.com/4VuGAIA.png"  />
         </Col>
         <Col xs={6} md={5}>
           <br />
