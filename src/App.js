@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {Component} from 'react'
 import './App.css';
 import { Route, Switch } from 'react-router-dom'
 import Home from './Components/home'
@@ -9,6 +9,7 @@ import PupPalsNYC from './Components/PupPalsNYC';
 import Resume from './Components/Resume'
 import EventLiveStreams from './Components/EventLiveStreams'
 import AboutMe from './Components/AboutMe'
+import ContactMe from './Components/ContactMe'
 
 
 
@@ -27,6 +28,7 @@ render(){
         <Route exact path ="/Resume" render={()=> <Resume />}/>
         <Route exact path ="/EventLiveStreams" render={()=> <EventLiveStreams />}/>
         <Route exact path ="/About-Me" render={()=> <AboutMe />}/>
+        <Route exact path ="/Contact-Me" render={()=> <ContactMe />}/>
       </Switch>
     </div>
   );
