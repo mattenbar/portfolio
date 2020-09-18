@@ -3,6 +3,7 @@ import Image from 'react-bootstrap/Image'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
+
 const AboutMe = () =>{
   return(
     <div>
