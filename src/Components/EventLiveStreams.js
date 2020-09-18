@@ -27,7 +27,7 @@ const EventLiveStreams = () =>{
             This app is built with just Ruby on Rails and features conventional RESTful routing.
           </p>
           <h4 className="underline_header"> Video Demo </h4>
-          <iframe width="95%" height="315" src="https://youtu.be/SLkeeeffNBY" allowfullscreen></iframe>
+          <iframe width="95%" height="315" src="https://www.youtube.com/embed/SLkeeeffNBY" allowfullscreen></iframe>
           <br/><br/>
           <h4 >To view the app please check out the Github repo. </h4>
           <a href='https://github.com/mattenbar/EventLiveStreams' target="_blank">Event Live Streams Repo</a>
