@@ -28,7 +28,7 @@ const Home = () =>{
             </a>
           </Col>
           <Col>
-            <br/><br/><br/>
+            <br/><br/>
             <div className="about-me-home-page">
               <h1>Matthew Enbar</h1>
               <h5>Full-Stack Developer | Offering Left Brain Software Engineering Solutions with Right Brain Creativity</h5>

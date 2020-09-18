@@ -8,6 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import PupPalsNYC from './Components/PupPalsNYC';
 import Resume from './Components/Resume'
 import EventLiveStreams from './Components/EventLiveStreams'
+import AboutMe from './Components/AboutMe'
 
 
 
@@ -25,6 +26,7 @@ render(){
         <Route exact path ="/PupPals-NYC" render={()=> <PupPalsNYC />}/>
         <Route exact path ="/Resume" render={()=> <Resume />}/>
         <Route exact path ="/EventLiveStreams" render={()=> <EventLiveStreams />}/>
+        <Route exact path ="/About-Me" render={()=> <AboutMe />}/>
       </Switch>
     </div>
   );
