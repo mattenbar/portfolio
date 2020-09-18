@@ -14,6 +14,7 @@ const NavBar = () =>{
           <NavDropdown title="Projects" id="basic-nav-dropdown">
             <NavDropdown.Item href="/InvoiceTracker">Invoice Tracker App</NavDropdown.Item>
             <NavDropdown.Item href="/PupPals-NYC">PupPals NYC App</NavDropdown.Item>
+            <NavDropdown.Item href="/EventLiveStreams">Event Live Streams App</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>
