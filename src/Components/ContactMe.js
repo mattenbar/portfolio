@@ -57,7 +57,7 @@ class ContactMe extends React.Component {
     
           <Form.Group controlId="exampleForm.ControlTextarea1">
             <Form.Label>Enter Message</Form.Label>
-            <Form.Control as="textarea" rows="20" value={this.state.message} name="message" onChange={this.handleFormChange}/>
+            <Form.Control as="textarea" rows="10" value={this.state.message} name="message" onChange={this.handleFormChange}/>
           </Form.Group>
 
           <Button variant="dark" onClick={this.handleEmailSubmit}>Send Email</Button>
