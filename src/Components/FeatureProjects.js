@@ -30,7 +30,7 @@ const FeaturedProjects = () => {
         <Carousel.Caption className="carousel-items">
           <h3 className="blackTextOverride" >NYC PupPals</h3>
           <p className="blackTextOverride">An app that helps users socialize and create play-dates for their puppies in NYC</p>
-          <Link  to={`/NYC-PupPals`}>More about NYC PupPals App<br/> </Link>
+          <Link  to={`/PupPals-NYC`}>More about NYC PupPals App<br/> </Link>
         </Carousel.Caption>
       </Carousel.Item>
 
